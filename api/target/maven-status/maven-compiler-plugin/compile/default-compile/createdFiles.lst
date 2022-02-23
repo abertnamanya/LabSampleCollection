@@ -1,0 +1,6 @@
+org/openmrs/module/labsamplecollection/LabsamplecollectionActivator.class
+org/openmrs/module/labsamplecollection/api/impl/LabsamplecollectionServiceImpl.class
+org/openmrs/module/labsamplecollection/Item.class
+org/openmrs/module/labsamplecollection/LabsamplecollectionConfig.class
+org/openmrs/module/labsamplecollection/api/dao/LabsamplecollectionDao.class
+org/openmrs/module/labsamplecollection/api/LabsamplecollectionService.class
