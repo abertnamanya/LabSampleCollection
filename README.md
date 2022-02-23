@@ -1,4 +1,5 @@
 # LabSampleCollection
+[![LabSampleCollections](https://github.com/sherrif10/LabSampleCollection/blob/master/.github/workflows/maven.yml/badge.svg)](https://github.com/sherrif10/LabSampleCollection/blob/master/.github/workflows/maven.yml
 LabSamleCollection module helps in tracking lab samples in different health facilities.Its built on pick me synoname. This helps the person who correct these samples to tell which health facility got many lab samples.
 
 This module is built on top of openmrs lincese and using platform versin 2.3.2.
